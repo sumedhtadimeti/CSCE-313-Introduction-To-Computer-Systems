@@ -1,6 +1,6 @@
 Howdy,
 
-These are my projects and assignments for CSCE 313 taught by Dr. Ahmead at Texas A&M Univesity.
+These are my projects and assignments for CSCE 313 taught by Dr. Ahmed at Texas A&M Univesity.
 
 While this code is open for the public to see it should not be plagiarized by any students taking the class.
 All students should follow the Aggie Honor Code. The purpose of these uploads is to build 
